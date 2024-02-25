@@ -2,7 +2,7 @@
    
 ![Screenshot (498)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/5bb69bd9-7c0d-4c5d-8b05-af449bae5bc7)
 
-2. jalankan phpMyAdmin http://localhost/phpmyadmin dan buat database baru
+2. jalankan phpMyAdmin http://localhost/phpmyadmin dan buat database baru 
 
 ![Screenshot (465)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/d45787e0-5780-4c07-b4c0-29ebf305dc73)
 

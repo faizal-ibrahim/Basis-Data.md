@@ -1,8 +1,11 @@
 1. Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
    
     kode_penjualan = 2
+   
     kode_barang = 3
+
     harga = 5.000
+
     jumlah = 5
 
 ![Screenshot (488)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/119a686a-8116-4af2-b81f-5dff8aee0cfa)

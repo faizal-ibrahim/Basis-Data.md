@@ -38,4 +38,4 @@ Apakah data dapat ditambahkan? menjelaskan penjelasannya! <SOAL 4>
    > Tidak ada, karena data dapat ditambahkan tanpa error
 
 8. Terangkan apa yang bisa Anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data <Soal 6>
-   Yang bisa saya pahami, Menambahkan nilai dari data yang sudah ada pada primary key (kode_penjualan) atau duplikasi data tidak       bisa dilakukan karena jika bisa dapat menyebabkan inkonsistensi data
+   > Yang bisa saya pahami, Menambahkan nilai dari data yang sudah ada pada primary key (kode_penjualan) atau duplikasi data tidak       bisa dilakukan karena jika bisa dapat menyebabkan inkonsistensi data

@@ -32,4 +32,10 @@
 Apakah data dapat ditambahkan? menjelaskan penjelasannya! <SOAL 4>
 > Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjuaalan
 
-![Screenshot (488)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/1a516479-1794-4f07-a130-4b22c4a8e0f6)
+![Screenshot (488)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/1a516479-1794-4f07-a130-4b22c4a8e0f6) 
+
+7. menjelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan <SOAL 5>
+   > Tidak ada, karena data dapat ditambahkan tanpa error
+
+8. Terangkan apa yang bisa Anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data <Soal 6>
+   Yang bisa saya pahami, Menambahkan nilai dari data yang sudah ada pada primary key (kode_penjualan) atau duplikasi data tidak       bisa dilakukan karena jika bisa dapat menyebabkan inkonsistensi data

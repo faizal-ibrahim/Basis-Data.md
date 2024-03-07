@@ -1,4 +1,5 @@
 1. Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
+   
     kode_penjualan = 2
     kode_barang = 3
     harga = 5.000

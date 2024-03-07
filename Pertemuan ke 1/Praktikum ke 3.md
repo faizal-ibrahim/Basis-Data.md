@@ -3,6 +3,7 @@
 ![Screenshot (499)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/fcd0c706-db7e-48db-87f5-589d30ddda66)
 
 2. Menambahkan data penjualan sebagaimana berikut : <SOAL 1>
+
     kode_penjualan = 3
    
     tgl = 8 Februari 2021

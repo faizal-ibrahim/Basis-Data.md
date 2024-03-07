@@ -4,16 +4,23 @@
 
 2. Menambahkan data penjualan sebagaimana berikut : <SOAL 1>
     kode_penjualan = 3
+   
     tgl = 8 Februari 2021
+
     kasir = Dini
+
     total_penjualan = 10.000
 
    ![Screenshot (500)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/90756cff-1271-41ee-a806-4a8ed074c488)
 
-3. Menambahkan data penjualan sebagaimana berikut : <SOAL 2>
+4. Menambahkan data penjualan sebagaimana berikut : <SOAL 2>
+
     kode_penjualan = 2
+
     tgl = 10 Februari 2021
+
     kasir = Dini
+
     total_penjualan = 20.000
    
 ![Screenshot (500)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/f2a91c8b-951d-4023-8f59-901236fe7a95)
@@ -25,10 +32,16 @@
 
 5. Masuk pada tabel data_penjualan dan tambahkan datanya melalui menu insert
 6. Tambahkan data detail_penjualan sebagaimana berikut
+
   kode_penjualan = 2
+
+  
   kode_barang = 3
+  
   harga = 5.000
+  
   jumlah = 5
+  
 Apakah data dapat ditambahkan? menjelaskan penjelasannya! <SOAL 4>
 > Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjuaalan
 

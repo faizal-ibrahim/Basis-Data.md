@@ -1,6 +1,6 @@
 
+Pada suatu toko komputer yang berbeda dengan soal no 2, perlu dicatat data-data sebagai berikut. Data barang perlu dicatat kode yang unik, nama, spesifikasi, jumlah, harga dan jenis barang. Setiap jenis barang perlu dicatat kode jenis dan nama jenis. Setiap barang memiliki 1 jenis barang dan satu jenis barang bisa ada banyak barang. Data pembelian yang perlu dicatat adalah kode yang unik, tgl pembelian, dan pegawai yang menangani pembelian. Setiap pembelian dapat membeli banyak barang. Disetiap pembelian barang perlu dicatat jumlah dan harga beli yang bisa berbeda dari harga barang. Setiap pegawai perlu dicatat kode pegawai yang unik, nama, alamat, no hp, tempat dan tanggal lahir. Untuk keperluan perhitungan tunjangan gaji maka perlu dicatat data keluarga dari karyawan. Data keluarga terdiri dari nama dan hubungan keluarga. Data keluarga hanya dicatatkan untuk salah satu anggota keluarga. Semisal ada suami istri berada di perusahaan tersebut, maka anak-anak dari suami istri tersebut didaftarkan pada salah satu orangtuanya.
+
 ![Screenshot (531)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/b6f07000-6aef-4ec7-aa8f-29e3c0a0ec88)
 
 
-
-![Screenshot (530)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/a0e03935-1146-41a2-a8ce-a272df5527aa)

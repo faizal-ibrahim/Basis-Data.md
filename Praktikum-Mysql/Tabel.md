@@ -10,8 +10,8 @@
 
 <h1>Tabel Pegawai</h1>
 
+![Screenshot (688)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/5874ed56-8871-4975-bd0a-6389ccb6c017)
 
-![Uploading Screenshot (688).png…]()
 
 <h1>Tabel Sekolah</h1> 
 

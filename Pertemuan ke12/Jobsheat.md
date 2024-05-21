@@ -52,3 +52,20 @@ Soal 1 Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat d
 
 ![Screenshot (816)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/78b77fd8-0a5b-4dae-97dc-42de05abf2c4)
 
+Soal 2 Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!
+
+![Screenshot (818)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/55a8fd4c-7c2f-43b6-b7f9-f9ae5e17f03a)
+
+Soal 3 Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
+
+![Screenshot (819)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/0b25771f-41a3-4a4c-904d-331ed2a8c901)
+
+![Screenshot (820)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/c0f38422-e7dc-4294-a48a-938410407319)
+
+Soal 4 Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
+
+![Screenshot (821)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/567ac22c-d26d-41fd-a504-7944ad00d305)
+
+Soal 5 Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
+
+![Screenshot (822)](https://github.com/faizal-ibrahim/Basis-Data.md/assets/160212743/ae4be8c1-d2b4-4e3d-9e27-0e74f487359a)
